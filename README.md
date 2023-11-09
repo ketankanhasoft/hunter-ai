@@ -51,3 +51,14 @@ When prompted, choose your input type:
 
 ### Demo Videos
 Here some attached demo videos for your reference.
+
+
+https://github.com/ketankanhasoft/hunter-ai/assets/24564038/845edd87-0493-45ad-8249-236dd1600b8c
+
+
+
+https://github.com/ketankanhasoft/hunter-ai/assets/24564038/a0a040f7-e809-4502-b070-970872a4c349
+
+
+
+
